@@ -1,3 +1,3 @@
-## MODERN CHAIR 
+# MODERN CHAIR 
 
-# Landing page
+Landing page
